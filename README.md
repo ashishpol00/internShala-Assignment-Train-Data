@@ -1,1 +1,11 @@
-# internShala-Assignment-Train-Data
+# README
+- install node in your system
+- Run below comands as well
+npm install express
+npm install ejs
+npm install body-parser
+npm install axios
+npm install mongodb
+
+then run:
+node index.js
