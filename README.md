@@ -1,4 +1,5 @@
 # README
+- downkoad 'home.ejs' and 'index.js' from this repository
 - install node in your system
 - Run below comands as well  
 npm install express  
